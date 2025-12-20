@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackName: Destello solar
   description: Un rayo de luz cegadora
-  baseDamage: 25
+  baseDamage: 10
   attackType: 0
   attackIcon: {fileID: 0}
   attackEffect: {fileID: 0}
